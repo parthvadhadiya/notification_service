@@ -46,4 +46,4 @@ db.getCollection("user").insert([
 ])
 ```
 
-
+- to change time for scheduler src/jobs/index.js > SCHEDULES array
